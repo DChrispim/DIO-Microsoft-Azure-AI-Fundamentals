@@ -1,8 +1,8 @@
 # DIO-Microsoft-Azure-AI-Fundamentals
 
-<img align="right" src="imagens/banner1.jpeg" width="1000"/> ...
+<img align="right" src="Imagens/banner1.jpeg" width="1000"/> ...
 
-<img align="right" src="imagens/banner2.webp" width="200"/>
+<img align="right" src="Imagens/banner2.webp" width="200"/>
 
 ## Sobre o projeto
 
