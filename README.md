@@ -13,7 +13,7 @@ Aprender sobre a Microsoft Azure e preparação para a certificação AI-900 da 
 |[Lab Project 2](<Lab_Projeto_2>) | Utilização do recurso Vision Studio da Azure para diferentes tarefas de extração de informação de imagens.  |
 |[Lab Project 3](<Lab_Projeto_3>) | Utilização do recurso Language e Speech Studio da Azure para diferentes tarefas de processamento text/audio. |
 |[Lab Project 4](<Lab_Projeto_4>) | Utilização do Azure AI Search para mineração de dados.  |
-|[Lab Project 5](<Lab_Projeto_5>) | ![To-Do](https://img.shields.io/badge/ToDo-red) |
+|[Lab Project 5](<Lab_Projeto_5>) | Explorar os recursos do Microsoft Copilot. |
 
 ## Sobre mim
 
