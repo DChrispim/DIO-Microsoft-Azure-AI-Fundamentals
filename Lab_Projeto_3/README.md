@@ -64,7 +64,7 @@ Aqui foi utilizado como input o seguinte sample de audio
 
 disponível em [Azure-Samples/sampledata/audiofiles](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/sampledata/audiofiles). A transcrição ocorreu de maneira gradativa, como é esperado do recurso de transcrição em tempo real.
 
-#### Desativando o recurso do
+#### Desativando o recurso
 
 Não podemos esquecer de desativar os recursos. Esse processo é idêntico ao anterior.
 
