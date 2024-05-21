@@ -30,7 +30,6 @@ Vamos começar ativando o recurso **Language service**. As imagens a seguir most
 ![img](../Imagens/Lab_Projeto_3_imagens/img2.png)
 ![img](../Imagens/Lab_Projeto_3_imagens/img3.png)
 ![img](../Imagens/Lab_Projeto_3_imagens/img4.png)
-![img](../Imagens/Lab_Projeto_3_imagens/img5.png)
 ![img](../Imagens/Lab_Projeto_3_imagens/img6.png)
 
 #### Acessando o recurso Language Studio
@@ -47,8 +46,6 @@ Aqui foi utilizado o sample que está no código [sample_analyze_sentiment_with_
 #### Desativando o recurso do Language
 
 Por fim, devemos desativar o recurso.
-
-![img](../Imagens/Lab_Projeto_3_imagens/img13.png)
 
 ### Speech Studio
 
@@ -67,8 +64,6 @@ disponível em [Azure-Samples/sampledata/audiofiles](https://github.com/Azure-Sa
 #### Desativando o recurso
 
 Não podemos esquecer de desativar os recursos. Esse processo é idêntico ao anterior.
-
-![img](../Imagens/Lab_Projeto_3_imagens/img17.png)
 
 ## Comentários finais
 
