@@ -37,7 +37,6 @@ A parte a seguir mostra as principais telas da criação dos três recursos que 
 ![img](../Imagens/Lab_Projeto_4_imagens/img5.png)
 ![img](../Imagens/Lab_Projeto_4_imagens/img6.png)
 ![img](../Imagens/Lab_Projeto_4_imagens/img7.png)
-![img](../Imagens/Lab_Projeto_4_imagens/img8.png)
 
 #### Azure AI Search services
 
@@ -64,7 +63,6 @@ Depois criamos um novo container e subimos os arquivos que estão disponíveis n
 
 Agora que os arquivos estão no armazenamento da nuvem podemos fazer o processamento pelo **Azure AI Search**. As imagens a seguir mostram as principais telas desse processo.
 
-![img](../Imagens/Lab_Projeto_4_imagens/img19.png)
 ![img](../Imagens/Lab_Projeto_4_imagens/img20.png)
 ![img](../Imagens/Lab_Projeto_4_imagens/img21.png)
 ![img](../Imagens/Lab_Projeto_4_imagens/img22.png)
