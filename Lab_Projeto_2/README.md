@@ -31,7 +31,6 @@ Vamos começar criando o recurso **Azure AI services**. Os passos a seguir são 
 ![img](../Imagens/Lab_Projeto_2_imagens/img2.png)
 ![img](../Imagens/Lab_Projeto_2_imagens/img3.png)
 ![img](../Imagens/Lab_Projeto_2_imagens/img4.png)
-![img](../Imagens/Lab_Projeto_2_imagens/img5.png)
 
 ### Acessar o recurso Vision Studio
 
@@ -95,6 +94,5 @@ Aqui o rosto da mulher foi corretamente identificado e categorizado ainda dando 
 
 A última tarefa, quando o recurso não será mais utilizado, é deletar todos os recursos para que não ocorram cobranças não planejadas.
 
-![img](../Imagens/Lab_Projeto_2_imagens/img13.png)
 ![img](../Imagens/Lab_Projeto_2_imagens/img14.png)
 ![img](../Imagens/Lab_Projeto_2_imagens/img15.png)
